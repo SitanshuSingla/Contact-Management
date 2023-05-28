@@ -1,0 +1,29 @@
+.bg-body-tertiary {
+  background-color: black !important;
+  color: white !important;
+}
+
+.navbar-brand {
+  color: white;
+}
+.home-wrapper {
+  padding-left: 40px;
+}
+
+.bt {
+  height: 35px;
+  margin-left: 10px;
+  width: 80px !important;
+}
+.form-control {
+  width: 20%;
+}
+.d-flex {
+  margin-top: 30px;
+}
+.card-wrapper {
+  margin-top: 100px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 20px;
+}

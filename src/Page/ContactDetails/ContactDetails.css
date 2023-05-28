@@ -1,0 +1,11 @@
+.contact-detail {
+  background-color: white;
+  width: 400px;
+  padding-left: 40px;
+  margin-left: 20px;
+}
+.detail-wrapper {
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+}
